@@ -1,0 +1,7 @@
+README.md
+setup.py
+codex_sorter.egg-info/PKG-INFO
+codex_sorter.egg-info/SOURCES.txt
+codex_sorter.egg-info/dependency_links.txt
+codex_sorter.egg-info/requires.txt
+codex_sorter.egg-info/top_level.txt
