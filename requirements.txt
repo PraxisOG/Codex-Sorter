@@ -1,8 +1,7 @@
-opencv-python>=4.8
-numpy>=1.26
-requests>=2.32
-pytesseract>=0.3
 requests>=2.31
-octorest>=0.5        # whatever version works with your OctoPrint
-gpiozero>=2.0
 gpiod>=2.0          # for the low‑level chip access you used
+octorest
+gpiozero
+opencv-python==4.8.*        # pinned to a version that works on ARM
+pytesseract
+numpy

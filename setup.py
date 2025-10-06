@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="codex_sorter",          # Name of your package
-    version="0.1.0",                   # Version number (semantic: MAJOR.MINOR.PATCH)
+    version="0.1.1",                   # Version number (semantic: MAJOR.MINOR.PATCH)
     packages=find_packages(),          # Automatically discover sub-packages
     description="OCR stack to classify trading cards and operate a 3d printer to sort them",  # One-line description
     long_description=open("README.md").read(),  # Optional: full README content

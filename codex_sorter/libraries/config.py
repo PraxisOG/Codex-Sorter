@@ -19,3 +19,16 @@ OCR_WHITELIST    = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234567
 
 # Scryfall
 SCRYFALL_CARD_URL = "https://api.scryfall.com/cards/{set_code}/{collector_number}"
+
+# Position data
+POST_HOME_X         = 26
+POST_HOME_Y         = 425
+POST_HOME_Z         = 5
+
+INPUT_STACK_X       = 235
+INPUT_STACK_Y       = 106
+INPUT_STACK_Z       = 60
+
+TILE_STEP           = 90
+
+SAFE_Z              = 20
